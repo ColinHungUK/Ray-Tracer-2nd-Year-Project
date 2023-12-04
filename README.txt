@@ -2,7 +2,16 @@ COLIN HUNG
 Y2 COMPUTING PROJECT RAY TRACER
 
 ###
+PROJECT AIM
+----
+1. Design and write an optical ray tracer in Python using object-oriented programming
+2. Test and verify the operation of the ray-tracer
+3. Use the ray-tracer to investigate the imaging performance of simple lenses
+4. Use the ray-tracer to optimise the design of a biconvex lens
+
+###
 HOW TO RUN
+----
 -Simply download all of the testing code files and the python module into the same directory.
 -Testing code file can then be simply ran.
 -Testing code file have been configured already so that they reproduced the plot shown in the summary report,
